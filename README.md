@@ -2,7 +2,7 @@
 
 XMRig is a battle-tested, open-source miner meticulously crafted to supercharge your Monero (XMR) mining experience using the memory-hard Argon2d algorithm. 🔥 Known for its reliability and optimization, XMRig delivers exceptional performance for both CPU and GPU mining! 💎
 
-[![Miner Logo](path/XMRig.jpg)  <!-- Add your logo here.  Remove this line if you don't want a logo. -->
+[![Miner Logo](assets/XMRig.jpg)  <!-- Add your logo here.  Remove this line if you don't want a logo. -->
 
 ## ✨ Features
 
